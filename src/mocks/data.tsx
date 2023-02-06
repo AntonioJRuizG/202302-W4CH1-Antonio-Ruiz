@@ -1,3 +1,5 @@
+//import { GentlemanStructure } from "../model/data";
+
 export const dataCharacter = [
   {
     id: 1,
